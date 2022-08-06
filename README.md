@@ -23,11 +23,12 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en" alt="manjil-karki" /></p>
   </div>
   <div class="column">
-  <p align = "right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="manjil-karki" /></p>
   </div>
 </div>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="manjil-karki" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" /></p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
