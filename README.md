@@ -22,9 +22,8 @@
 <hr>
 <h2 align="center">My Github Stats</h2>
 <p align = "center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en" alt="manjil-karki" width = "48%"/>
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" width = "48%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en" alt="manjil-karki" width = "45%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" width = "45%"/>
 </p><br>
 
 <p align = "center">
