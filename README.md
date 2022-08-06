@@ -22,10 +22,12 @@
 <hr>
 <h2 align="center">My Github Stats</h2>
 <div align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="manjil-karki" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en" alt="manjil-karki" width = "48%"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en" alt="manjil-karki" />
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manjil-karki&theme=highcontrast" alt="manjil-karki" width = "48%"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjil-karki&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="manjil-karki" width = "40%"/>
+
 </div>
 
 <hr>
