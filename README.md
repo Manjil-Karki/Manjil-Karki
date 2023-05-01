@@ -2,13 +2,13 @@
 
 <h2>Get to know me</h2>
 
-- 🔭 I’m currently working on **Voice Cloning**
+<!-- - 🔭 I’m currently working on **Voice Cloning** -->
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **AI related projects**
+- 👯 I’m looking to collaborate on **Data Engineering/ML/AI**
 
-- 🤝 I’m looking for help with **Voice Cloning**
+<!-- - 🤝 I’m looking for help with **Voice Cloning** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manjil-Karki/Manjil-Karki](https://github.com/Manjil-Karki/Manjil-Karki)
 
